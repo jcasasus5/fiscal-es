@@ -1,0 +1,12 @@
+{
+  "name": "fiscal-es",
+  "owner": { "name": "Joaquin Casasus" },
+  "description": "Herramientas fiscales para autónomos en España",
+  "plugins": [
+    {
+      "name": "fiscal-es",
+      "source": "./plugins/fiscal-es",
+      "description": "Gestor del IVA: genera los modelos 303 y 390 a partir de tus facturas para importarlos en la Sede de la AEAT"
+    }
+  ]
+}

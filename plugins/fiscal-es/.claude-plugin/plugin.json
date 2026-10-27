@@ -1,0 +1,9 @@
+{
+  "name": "fiscal-es",
+  "version": "0.4.1",
+  "description": "Gestor del IVA para autónomos: modelo 303 trimestral y 390 anual con libro registro, cálculo determinista y ficheros para importar en la Sede de la AEAT",
+  "author": { "name": "Joaquin Casasus" },
+  "repository": "https://github.com/jcasasus5/fiscal-es",
+  "license": "MIT",
+  "keywords": ["fiscal", "iva", "modelo-303", "modelo-390", "aeat", "autonomos"]
+}

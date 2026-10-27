@@ -1,0 +1,19 @@
+# Datos fiscales: nunca dentro del repo (viven en FISCAL_DATA_DIR, por defecto ~/fiscal-data)
+fiscal-data/
+*.pdf
+*.db
+*.sqlite
+*.303
+*.390
+perfil.json
+perfil_historial.jsonl
+resumen.json
+
+# Python / uv
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+dist/
+build/
+*.egg-info/

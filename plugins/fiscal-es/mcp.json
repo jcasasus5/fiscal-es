@@ -1,0 +1,10 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "fiscal": {
+      "type": "stdio",
+      "command": "uvx",
+      "args": ["--from", "git+https://github.com/jcasasus5/fiscal-es@v0.4.1", "fiscal-mcp"]
+    }
+  }
+}

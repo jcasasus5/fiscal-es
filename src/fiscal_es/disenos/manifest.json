@@ -1,0 +1,20 @@
+[
+  {
+    "archivo": "DR303e26v101.xlsx",
+    "desde": "2026-1T",
+    "actualizado": "2026-01-28",
+    "sha256": "0be8b156da2250c6b11f6253e0165221ed2e549ec4c65a562021bec6b9b8489b",
+    "fuente": "https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_26/DR303e26v101.xlsx",
+    "instalado": null,
+    "modelo": "303"
+  },
+  {
+    "archivo": "dr390e2026.xlsx",
+    "desde": "2026-1T",
+    "actualizado": null,
+    "sha256": "5ce047995347c2b5ad6e5d4e407f126eeb9bd214602ed7c99e9f85175176ec15",
+    "fuente": "https://sede.agenciatributaria.gob.es/static_files/Sede/Disenyo_registro/DR_300_399/archivos_26/dr390e2026.xlsx",
+    "instalado": null,
+    "modelo": "390"
+  }
+]
